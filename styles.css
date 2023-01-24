@@ -1,9 +1,9 @@
-main{
+#Job{
     background-color: black;
     width: 150px;
     height: 150px;
 }
-p{
+.Accio{
     color: white;
     margin-left: 32px;
     padding: 10px;
